@@ -9,7 +9,6 @@ import pandas as pd
 # ============================================================
 
 st.set_page_config(
-    image(VT.jpeg)
     page_title="Hotel Manager",
     page_icon="🏨",
     layout="wide",
